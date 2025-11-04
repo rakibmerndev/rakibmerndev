@@ -46,7 +46,7 @@
 
 ## MetaBlog
 
-<p>Repository Link:  <a href="https://github.com/rakibmerndev/Blog-Zone-Client"> Click Here</a></p>
+<p>Repository Link:  <a href="https://github.com/RakibMERNDev/MetaBlog-Web-App"> Click Here</a></p>
 <h4>Some Features:</h4>
 <ul>
 <li>Registered user can create, update his blog.</li>
