@@ -31,7 +31,7 @@
 
 <h1 align="left" style="margin-Bottom:30px"> <font color="#9745F5">Contact me :</font></h1>
 <p>
-📩 Email: <a href="mailto:abdullahalrakib30@gmail.com"> abdullahalrakib30@gmail.com
+📩 Email: <a href="mailto:abdullahalrakib366@gmail.com"> abdullahalrakib366@gmail.com
 </a>
 </p>
 <p>
