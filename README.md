@@ -1,97 +1,82 @@
-<img src="https://github.com/rakibmerndev/rakibmerndev/blob/main/images/reactjs.gif" alt="React icon_banner" width="100%">
+![React Banner](https://github.com/rakibmerndev/rakibmerndev/blob/main/images/reactjs.gif)
 
-<h1 align="center">Hi 👋, I'm Abdullah Al Rakib</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<br/>
+# Hi 👋, I'm Abdullah Al Rakib
 
-<h1 align="left"><font color="#9745F5">About Me :</font></h1>
-<p>I am an undergraduate student from Rajshahi, Bangladesh. I started working on web development from July 2023. During this time, I have learned the fundamentals of frontend web development and have endeavored to strengthen my basic knowledge in this field. I have also worked on a couple of projects. I intend to work on more projects and further explore the intricacies of web development.</p>
+### A passionate frontend developer from Bangladesh
 
-<br/>
-<br/>
+---
 
-<h1 align="center"><font color="#9745F5">Technology that I have worked with</font></h1>
+## 💜 About Me
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nodejs,mongodb,expressjs,firebase,typescript,nextjs" />
-  </a>
-</p>
-<br/>
-<br/>
-<h1 align="center" style="margin-Bottom:30px"> <font color="#9745F5">Current Stats:</font></h1>
-<div align="center"><a href="http://www.github.com/rakibmerndev"><img src="https://github-readme-streak-stats.herokuapp.com?user=rakibmerndev&theme=midnight-purple&hide_border=true&type=png"  alt="GitHub Streak" width="70%" /></a>
-</div>
-<div align="center"><a href="https://github.com/rakibmerndev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibmerndev&langs_count=10&title_color=9745F5&text_color=ffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+I am an undergraduate student from Rajshahi, Bangladesh. I started working on web development from July 2023. During this time, I have learned the fundamentals of frontend web development and have endeavored to strengthen my basic knowledge in this field. I have also worked on a couple of projects. I intend to work on more projects and further explore the intricacies of web development.
+
+---
+
+## 💜 Technology that I have worked with
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nodejs,mongodb,expressjs,firebase,typescript,nextjs" alt="Tech Stack" />
 </div>
 
-<br/>
+---
 
-<div>
+## 💜 Current Stats
 
-<h1 align="left" style="margin-Bottom:30px"> <font color="#9745F5">Contact me :</font></h1>
-<p>
-📩 Email: <a href="mailto:abdullahalrakib366@gmail.com"> abdullahalrakib366@gmail.com
-</a>
-</p>
-<p>
-🔎 LikedIn : <a href="https://www.linkedin.com/in/rakibmerndev/"> Abdullah Al Rakib
-</a>
-</p>
-</div>
+<div align="center">
 
-<h1>Latest Projects :</h1>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rakibmerndev&theme=midnight-purple&hide_border=true&type=png)](http://www.github.com/rakibmerndev)
 
-<div style="margin-bottom: 40px;">
-
-## MetaBlog
-
-<p>Repository Link:  <a href="https://github.com/RakibMERNDev/MetaBlog-Web-App"> Click Here</a></p>
-<h4>Some Features:</h4>
-<ul>
-<li>Registered user can create, update his blog.</li>
-<li>User can add blog to wishlist</li>
-<li>User can comment, edit and also delete the comment on comment section of blog.</li>
-</ul>
-
-### Live Website
-
-<a href="https://meta-blog-app.vercel.app/" target="_blank">Click here</a>
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibmerndev&langs_count=10&title_color=9745F5&text_color=ffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages)](https://github.com/rakibmerndev)
 
 </div>
 
-<div style="margin-bottom: 40px;">
+---
 
-## Life-Flow-Donor
+## 💜 Contact Me
 
-<p>It's a blood donation management webapp</p>
-<p>Repository Link:  <a href="https://github.com/rakibmerndev/Blood-Donation-Client" target="_blank"> Click Here</a></p>
-<h4>Some Features:</h4>
-<ul>
-<li>There are three rules in this website: donor, admin, volunteer</li>
-<li>Admin will be able to change user role to volunteer and admin</li>
-<li>Admin has all the privileges. Volunteer have only a few privileges like changing the request status and create blog.
- </li>
-</ul>
+- 📩 **Email:** [abdullahalrakib366@gmail.com](mailto:abdullahalrakib366@gmail.com)
+- 🔗 **LinkedIn:** [Abdullah Al Rakib](https://www.linkedin.com/in/rakibmerndev/)
 
-### Live Website
+---
 
-<a href="https://life-flow-donor.vercel.app/" target="_blank">click here</a>
+## Latest Projects
 
-</div>
+### MetaBlog
 
-<div style="margin-bottom: 40px;">
-  
-## Taskify 
-<p>Repository Link:  <a href="https://github.com/rakibmerndev/Taskify-Web-App" tareget="_"> Click Here</a></p>
-<h4>Some Features:</h4>
-<ul>
-<li>After registration you will be able to create, update and delete taks from your dashboard</li>
-<li>You will be able to simply drag and drop task to update your status immediately.</li>
-</ul>
+**Repository:** [Click Here](https://github.com/RakibMERNDev/MetaBlog-Web-App)
 
-### Live Website
+**Features:**
+- Registered users can create and update their blogs
+- Users can add blogs to wishlist
+- Users can comment, edit, and delete comments on the blog comment section
 
-<a href="https://taskify-web-app.vercel.app/" target="_blank">Click here</a>
+**[Live Website](https://meta-blog-app.vercel.app/)**
 
-</div>
+---
+
+### Life-Flow-Donor
+
+A blood donation management web application
+
+**Repository:** [Click Here](https://github.com/rakibmerndev/Blood-Donation-Client)
+
+**Features:**
+- Three user roles: Donor, Admin, and Volunteer
+- Admin can change user roles to volunteer and admin
+- Admin has all privileges; volunteers have limited privileges like changing request status and creating blogs
+
+**[Live Website](https://life-flow-donor.vercel.app/)**
+
+---
+
+### Taskify
+
+**Repository:** [Click Here](https://github.com/rakibmerndev/Taskify-Web-App)
+
+**Features:**
+- Create, update, and delete tasks from your dashboard after registration
+- Drag and drop tasks to update status immediately
+
+**[Live Website](https://taskify-web-app.vercel.app/)**
+
+---
