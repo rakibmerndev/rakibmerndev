@@ -24,9 +24,9 @@ I am an undergraduate student from Rajshahi, Bangladesh. I started working on we
 
 
 
- ![Rakib's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=rakibmerndev&show_icons=true&theme=blue-green)
+ ![Rakib's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=rakibmerndev&show_icons=true&theme=github_dark)
 
-  ![GitHub Languages](https://github-languages-card.vercel.app/api/top-languages?username=rakibmerndev&theme=hacker)</div>
+  ![GitHub Languages](https://github-languages-card.vercel.app/api/top-languages?username=rakibmerndev&theme=dark)
 
 ---
 
