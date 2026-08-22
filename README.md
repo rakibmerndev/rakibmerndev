@@ -1,8 +1,8 @@
-![React Banner](https://github.com/rakibmerndev/rakibmerndev/blob/main/images/reactjs.gif)
+![React Banner](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXg4ZWxsemlsZ3FkOGJieG96YTkyMmZhejlncDlzbzRvdDY5OGIyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif)
 
 # Hi 👋, I'm Abdullah Al Rakib
 
-### A passionate frontend developer from Bangladesh
+### A passionate MERN stack developer from Bangladesh
 
 ---
 
