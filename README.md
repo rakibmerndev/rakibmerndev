@@ -13,10 +13,7 @@ I am an undergraduate student from Rajshahi, Bangladesh. I started working on we
 ---
 
 ## 💜 Technology that I have worked with
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nodejs,mongodb,expressjs,firebase,typescript,nextjs" alt="Tech Stack" />
-</div>
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nodejs,mongodb,expressjs,firebase,typescript,nextjs)
 
 ---
 
